@@ -1,0 +1,133 @@
+.bg-trans {
+    background-color: #ffffff0f;
+}
+
+.carousel-caption {
+    text-align: left;
+    bottom: 20%;
+}
+
+.brief__container_ {
+    padding: 150px 50px;
+}
+
+.brief_img_container_ {
+    padding: 100px 0 0 0;
+}
+
+.first-letter::first-letter {
+    font-size: 200%;
+    color: #8A2BE2;
+}
+
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+
+.contact__banner__background {
+    background-image: url(/images/jpeg/stationary.jpg);
+    height: 300px;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    text-align: center;
+}
+
+.contact__banner__overlay {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .65);
+    padding: 105px 0 0;
+}
+
+.heading_d:after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f061";
+    width: 100%;
+    padding-left: 50px;
+    height: auto;
+    font-size: 20px;
+    color: #000;
+    margin-left: 5px;
+}
+
+.qualification:before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f19d";
+    width: 100%;
+    height: auto;
+    font-size: 100%;
+    color: #000;
+    padding-right: 5px;
+}
+
+a.nav-link {
+    margin-left: 3rem;
+}
+
+.app_gradient {
+    background: rgb(99, 205, 246);
+    background: linear-gradient(90deg, rgba(99, 205, 246, 1) 0%, rgba(160, 193, 53, 1) 98%, rgba(160, 193, 53, 1) 100%);
+}
+
+.color-ci{
+    color:#b3d235;
+}
+
+.modal-dialog {
+    top: 25vh;
+}
+
+.merrit-cornell-products{
+    position: absolute;
+    top: -45%;
+}
+
+@media only screen and (max-width: 1440px) {
+    .carousel-caption {
+        left: 12%;
+    }
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .carousel-caption {
+        left: 5%;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+    .carousel-caption {
+        left: 5%;
+    }
+    .merrit-cornell-products{
+        position: relative;
+        top: 0;
+    }
+}
+
+
+@media only screen and (max-width: 600px) {
+    a.nav-link {
+        margin-left: 0rem;
+    }
+    .carousel-caption {
+        text-align: left;
+        bottom: -15%;
+        left: 5%;
+    }
+    h1, .h1 {
+        font-size: 1.25rem;
+    }
+    .merrit-cornell-products{
+        position: relative;
+        top: 0;
+    }
+}
