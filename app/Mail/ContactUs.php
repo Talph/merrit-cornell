@@ -31,7 +31,7 @@ class ContactUs extends Mailable
     {
         return $this
         ->subject('Contact Form Online')
-        ->to('talph@outlook.com')
+        ->to('info@merrit-cornell.com')
         ->from('online@merrit-cornell.com')
         ->view('emails.contact-us')
         ->with('data', $this->data);
