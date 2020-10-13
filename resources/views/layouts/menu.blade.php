@@ -10,7 +10,7 @@
     <title>{{ config('app.name', 'Merrit Cornell') }}</title>
 
         <!-- favicon -->
-    <link rel="icon" href="{{ URL::asset('images/favi.ico') }}" type="image/x-icon"/>
+    <link rel="icon" href="{{ URL::asset('images/png/favicon.png') }}" type="image/x-icon"/>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" async></script>
