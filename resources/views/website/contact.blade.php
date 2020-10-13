@@ -1,7 +1,8 @@
 @extends('layouts.menu')
 
 @section('content')
-{{-- @include('partials.contact-banner') --}}
+@include('partials.quick-contact')
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3799.8836538680453!2d30.989571714881432!3d-17.7501203878622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1931af2bd37f666f%3A0x3fc0b7608fc5f994!2sElizabeth%20Windsor%20Rd%2C%20Harare%2C%20Zimbabwe!5e0!3m2!1sen!2sza!4v1602341738674!5m2!1sen!2sza" width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 <div class="container py-4">
     <div class="row justify-content-center">

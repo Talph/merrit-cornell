@@ -88,16 +88,18 @@ a.nav-link {
     top: 25vh;
 }
 
-.quick-contact{
-    top:50%;
+.quick-call, .quick-contact{
     padding:10px;
     left: -5%;
+    z-index: 999;
 }
 
+.quick-contact{
+    top:50%;
+
+}
 .quick-call{
     top:55%;
-    padding:10px;
-    left: -5%;
 }
 
 .quick-contact:hover, .quick-call:hover{

@@ -2,6 +2,8 @@
 
 @section('content')
 @include('partials.banners.about-banner')
+@include('partials.quick-contact')
+
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-12">
