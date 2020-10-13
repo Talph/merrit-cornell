@@ -26,10 +26,10 @@
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-dark shadow-sm sticky-top py-1 bg-dark">
+        <nav class="navbar navbar-expand-md navbar-light shadow-sm sticky-top py-3 bg-light">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="images/png/logo.png" width="100" alt="Merrit Cornell">
+                    <img src="images/svg/logo.svg" width="220" alt="Merrit Cornell">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
@@ -45,16 +45,16 @@
                     <ul class="navbar-nav ml-auto">
                         {{-- Menu Links --}}
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('welcome') }}">{{ __('Home') }}</a>
+                            <a class="nav-link text-dark" href="{{ route('welcome') }}">{{ __('Home') }}</a>
                              </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('about') }}">{{ __('Who we are') }}</a>
+                            <a class="nav-link text-dark" href="{{ route('about') }}">{{ __('Who we are') }}</a>
                              </li>
                             <li class="nav-item">
-                            <a class="nav-link" href="{{ route('services') }}">{{ __('What we do') }}</a>
+                            <a class="nav-link text-dark" href="{{ route('services') }}">{{ __('What we do') }}</a>
                              </li>
                              <li class="nav-item">
-                            <a class="nav-link" href="{{ route('contact-us') }}">{{ __('Contact us') }}</a>
+                            <a class="nav-link text-dark" href="{{ route('contact-us') }}">{{ __('Contact us') }}</a>
                              </li>
                         <!-- Authentication Links -->
                     </ul>

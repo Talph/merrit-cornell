@@ -23,6 +23,10 @@ body{
         font-size: 100%;
 }
 
+.btn, button{
+font-size: 1rem;
+}
+
 .first-letter::first-letter {
     font-size: 200%;
     color: #8A2BE2;

@@ -23,7 +23,7 @@
       </div> --}}
       <div class="carousel-item">
         <img src="images/jpeg/slide-2.jpg" class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block">
+        <div class="carousel-caption d-none d-md-block container">
             <h1 class="text-dark">Let us supply <br/>your business needs. </h1>
             <p class="text-dark">Cost effective products and services</p>
             <a class="btn button bg-primary button-primary" href="/contact-us"><span class="text-white">Contact us</span></a>
