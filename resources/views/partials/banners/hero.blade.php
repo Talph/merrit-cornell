@@ -8,7 +8,7 @@
       <div class="carousel-item active">
         <img src="images/jpeg/slide-3.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block container">
-          <h1 class="text-dark">We explore your ability and supply <br/>your business needs </h1>
+          <h1 class="text-dark">Innovation<span class="dot font-weight-bolder">.</span> Teamwork<span class="dot font-weight-bolder">.</span> Integrity<span class="dot font-weight-bolder">.</span> <br/>Quality<span class="dot font-weight-bolder">.</span></a></h1>
           <p class="text-dark">Cost effective products and services</p>
           <a class="btn button bg-primary button-primary" href="/contact-us"><span class="text-white">Contact us</span></a>
         </div>
@@ -24,7 +24,7 @@
       <div class="carousel-item">
         <img src="images/jpeg/slide-2.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-            <h1 class="text-dark">We explore your ability and supply <br/>your business needs </h1>
+            <h1 class="text-dark">Let us supply <br/>your business needs. </h1>
             <p class="text-dark">Cost effective products and services</p>
             <a class="btn button bg-primary button-primary" href="/contact-us"><span class="text-white">Contact us</span></a>
         </div>

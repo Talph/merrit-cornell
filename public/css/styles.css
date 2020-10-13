@@ -19,6 +19,10 @@ body{
     padding: 100px 0 0 0;
 }
 
+.dot {
+        font-size: 100%;
+}
+
 .first-letter::first-letter {
     font-size: 200%;
     color: #8A2BE2;
@@ -46,29 +50,6 @@ body{
     width: 100%;
     background-color: rgba(0, 0, 0, .65);
     padding: 105px 0 0;
-}
-
-.heading_d:after {
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    content: "\f061";
-    width: 100%;
-    padding-left: 50px;
-    height: auto;
-    font-size: 20px;
-    color: #000;
-    margin-left: 5px;
-}
-
-.qualification:before {
-    font-family: "Font Awesome 5 Free";
-    font-weight: 900;
-    content: "\f19d";
-    width: 100%;
-    height: auto;
-    font-size: 100%;
-    color: #000;
-    padding-right: 5px;
 }
 
 a.nav-link {
