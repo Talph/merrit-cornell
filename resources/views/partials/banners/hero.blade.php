@@ -1,28 +1,28 @@
-<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleCaptions" class="carousel slide shadow" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+      {{-- <li data-target="#carouselExampleCaptions" data-slide-to="1"></li> --}}
       <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/jpeg/slide-1.jpg" class="d-block w-100" alt="...">
-        <div class="carousel-caption d-none d-md-block">
+        <img src="images/jpeg/slide-3.jpg" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block container">
           <h1 class="text-dark">We explore your ability and supply <br/>your business needs </h1>
           <p class="text-dark">Cost effective products and services</p>
           <a class="btn button bg-primary button-primary" href="/contact-us"><span class="text-white">Contact us</span></a>
         </div>
       </div>
-      <div class="carousel-item">
+      {{-- <div class="carousel-item">
         <img src="images/jpeg/slide-2.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
             <h1 class="text-dark">We explore your ability and supply <br/>your business needs </h1>
             <p class="text-dark">Cost effective products and services</p>
             <a class="btn button bg-primary button-primary" href="/contact-us"><span class="text-white">Contact us</span></a>
         </div>
-      </div>
+      </div> --}}
       <div class="carousel-item">
-        <img src="images/jpeg/slide-3.jpg" class="d-block w-100" alt="...">
+        <img src="images/jpeg/slide-2.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
             <h1 class="text-dark">We explore your ability and supply <br/>your business needs </h1>
             <p class="text-dark">Cost effective products and services</p>

@@ -1,7 +1,7 @@
 @extends('layouts.menu')
 
 @section('content')
-@include('partials.service-banner')
+@include('partials.banners.service-banner')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-12">
@@ -121,6 +121,6 @@
     </div>
 </div>
 </div>
-@include('partials.contact-banner')
+@include('partials.banners.contact-banner')
 @include('partials.footer')
 @endsection

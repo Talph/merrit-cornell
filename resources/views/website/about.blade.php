@@ -1,7 +1,7 @@
 @extends('layouts.menu')
 
 @section('content')
-@include('partials.about-banner')
+@include('partials.banners.about-banner')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-12">
@@ -36,16 +36,16 @@ all over Zimbabwe.
     <hr class="py-2">
     <div class="row py-4">
         <div class="col-md-4">
-            <h5 class="company_h text-primary">Our mission
-            </h5>
+            <h3 class="company_h text-primary">Our mission
+            </h3>
             <p class="company_p">Our mission is to become an efficient and effective black empowered supplier, supplying any office environment and satisfying any company with solutions to stationery, cleaning chemicals, electrical
                 components, IT Equipment, corporate clothing (gifting) and vagetable produces. We intend on offering
                 our clients the ultimate in satisfactory service, economically viable and competitive prices yet never
                 compromising on our quality.</p>
         </div>
         <div class="col-md-4">
-            <h5 class="company_h text-success">Our vision 
-            </h5>
+            <h3 class="company_h text-success">Our vision 
+            </h3>
             <p class="company_p">We intend on becoming an all-encompassing business supplier by:</p>
                 <ul>
                     <li>Exceeding customer’s expectations by understanding their business.</li>
@@ -55,8 +55,8 @@ all over Zimbabwe.
         </div>
 
         <div class="col-md-4">
-            <h5 class="company_h text-danger"> Core values
-            </h5>
+            <h3 class="company_h text-danger"> Core values
+            </h3>
             <p class="company_p">
                 <ul>
                 <li>Innovation-Always looking out for new and better ways of working.</li>
@@ -69,6 +69,6 @@ all over Zimbabwe.
     </div>
 </div>
 @include('partials.team')
-@include('partials.contact-banner')
+@include('partials.banners.contact-banner')
 @include('partials.footer')
 @endsection

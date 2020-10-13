@@ -1,3 +1,7 @@
+body{
+    font-size:1em;
+}
+
 .bg-trans {
     background-color: #ffffff0f;
 }
@@ -84,21 +88,53 @@ a.nav-link {
     top: 25vh;
 }
 
+.quick-contact{
+    top:50%;
+    padding:10px;
+    left: -5%;
+}
+
+.quick-call{
+    top:55%;
+    padding:10px;
+    left: -5%;
+}
+
+.quick-contact:hover, .quick-call:hover{
+    left: -2px;
+    transition-duration: 0.3s;
+}
+
+
+
 .merrit-cornell-products{
     position: absolute;
-    top: -45%;
+    top: -25%;
+}
+
+footer{
+    background-color: #000;
+    color: #fff;
 }
 
 @media only screen and (max-width: 1440px) {
     .carousel-caption {
         left: 12%;
     }
+    
+    .quick-call, .quick-contact{
+        left: -6%;
+    }
+
 
 }
 
 @media only screen and (max-width: 1024px) {
     .carousel-caption {
         left: 5%;
+    }
+    .quick-call, .quick-contact{
+        left: -9%;
     }
 
 }
@@ -110,6 +146,9 @@ a.nav-link {
     .merrit-cornell-products{
         position: relative;
         top: 0;
+    }
+    .quick-call, .quick-contact{
+        left: -12%;
     }
 }
 
@@ -129,5 +168,8 @@ a.nav-link {
     .merrit-cornell-products{
         position: relative;
         top: 0;
+    }
+    .quick-call, .quick-contact{
+        display: none;
     }
 }

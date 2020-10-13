@@ -1,4 +1,4 @@
-<footer class="py-5">
+<footer class="py-5 bg-dark">
     <div class="container">
     <div class="row">
 
@@ -25,12 +25,12 @@
             <li>Cell: <a href="tel:+263 772 319 678">+263 772 319 678</a></li>
             <li>Cell: <a href="tel:+263 772 429 529">+263 772 429 529</a></li>
             <br/>
-            <li><a class="text-muted link" href="mailto:merritcornell@gmail.com">merritcornell@gmail.com</a></li>
+            <li><a class=" link" href="mailto:merritcornell@gmail.com">merritcornell@gmail.com</a></li>
         </ul>
       </div>
       <div class="col-12 col-md">
-        <small class="d-block mb-3 text-muted">Merrit Cornell © 2020</small>
-        <small class="d-block mb-3 link text-muted">Designed by <a href="https://aodigital.co.za" target="_blank">AO</a></small>
+        <small class="d-block mb-3 ">Merrit Cornell © 2020</small>
+        <small class="d-block mb-3 link ">Designed by <a href="https://aodigital.co.za" target="_blank">AO</a></small>
 
       </div>
     </div>

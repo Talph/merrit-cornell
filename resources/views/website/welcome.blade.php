@@ -1,7 +1,7 @@
 @extends('layouts.menu')
 
 @section('content')
-@include('partials.hero')
+@include('partials.banners.hero')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-12">
@@ -54,6 +54,6 @@ to provide services and products that are innovative, usable and reliable. Merri
 
     </div>
 </div>
-@include('partials.contact-banner')
+@include('partials.banners.contact-banner')
 @include('partials.footer')
 @endsection

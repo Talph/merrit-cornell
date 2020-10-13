@@ -1,7 +1,7 @@
 <!-- Header -->
 <header class="app_gradient text-center py-5 mb-4">
     <div class="container">
-      <h1 class="font-weight-light text-white">Meet the Team</h1>
+      <h1 class="font-weight-light text-dark">Meet the Team</h1>
     </div>
   </header>
   
