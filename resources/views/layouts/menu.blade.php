@@ -29,7 +29,7 @@
         <nav class="navbar navbar-expand-md navbar-light shadow-sm sticky-top py-3 bg-light">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="images/svg/logo.svg" width="220" alt="Merrit Cornell">
+                    <img src="images/svg/logo.svg" width="220" height="56" alt="Merrit Cornell">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>

@@ -6,7 +6,7 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="images/jpeg/slide-3.jpg" class="d-block w-100" alt="...">
+        <img src="images/jpeg/slide-3.jpg" class="d-block w-100" alt="Innovation slide" width="1920" height="600">
         <div class="carousel-caption d-none d-md-block container">
           <h1 class="text-dark">Innovation<span class="dot font-weight-bolder">.</span> Teamwork<span class="dot font-weight-bolder">.</span> Integrity<span class="dot font-weight-bolder">.</span> <br/>Quality<span class="dot font-weight-bolder">.</span></a></h1>
           <p class="text-dark">Cost effective products and services</p>
@@ -22,7 +22,7 @@
         </div>
       </div> --}}
       <div class="carousel-item">
-        <img src="images/jpeg/slide-2.jpg" class="d-block w-100" alt="...">
+        <img src="images/jpeg/slide-2.jpg" class="d-block w-100" alt="business needs slide" width="1920" height="600">
         <div class="carousel-caption d-none d-md-block container">
             <h1 class="text-dark">Let us supply <br/>your business needs. </h1>
             <p class="text-dark">Cost effective products and services</p>

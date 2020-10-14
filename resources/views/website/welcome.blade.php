@@ -12,8 +12,8 @@
            <small>We specialize in the provision of cost effective products and services</small>
            </div>
         </div>
-        <div class="row">
             <div class="col-md-12">
+                <div class="row">
         <div class="col-md-4 text-center">
             <svg width="4em" height="4em" viewBox="0 0 16 16" class="bi text-primary bi-wallet2" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <path fill-rule="evenodd" d="M12.136.326A1.5 1.5 0 0 1 14 1.78V3h.5A1.5 1.5 0 0 1 16 4.5v9a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 13.5v-9a1.5 1.5 0 0 1 1.432-1.499L12.136.326zM5.562 3H13V1.78a.5.5 0 0 0-.621-.484L5.562 3zM1.5 4a.5.5 0 0 0-.5.5v9a.5.5 0 0 0 .5.5h13a.5.5 0 0 0 .5-.5v-9a.5.5 0 0 0-.5-.5h-13z"/>
@@ -50,7 +50,7 @@
         <hr/>
 <div class="row">
         <div class="col-md-5 brief_img_container_">
-            <img src="images/png/windows.png" alt="Laptop" class="windows img image" width="100%"/>
+            <img src="images/png/windows.png" alt="Laptop" class="windows img image" width="602" height="497"/>
         </div>
         <div class="col-md-7 brief__container_">
             <h3 class="brief_h3">About Merrit Cornell</h3>
